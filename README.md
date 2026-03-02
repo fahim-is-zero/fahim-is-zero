@@ -8,7 +8,7 @@ Learning something new every day - student, programmer, and curious tinkerer.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,git,python,c,dart,html,css,js,sqlite,bash,flutter,flask,linux,arch,vscode,&theme=dark&perline=10" />
+    <img src="https://skillicons.dev/icons?i=github,git,python,lua,c,dart,html,css,js,sqlite,bash,flutter,flask,linux,arch,vscode,&theme=dark&perline=10" />
   </a>
 </p>
 
