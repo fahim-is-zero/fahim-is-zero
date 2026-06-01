@@ -24,7 +24,7 @@ Learning something new every day - student, programmer, and curious tinkerer.
 
 <!-- <p align="center"><img src="https://nirzak-streak-stats.vercel.app/?user=fahim-foysal-097&theme=gruvbox&hide_border=true" alt="fahim"/></a></p> -->
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=fahimfoysal&layout=compact&langs_count=20&theme=gruvbox&hide_border=true"/></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=fahimfoysal&layout=compact&langs_count=20&theme=gruvbox&hide_border=true" alt="wakatime stats"/></p>
 
 <p align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox"/></a></p>
 
