@@ -12,11 +12,17 @@ Learning something new every day - student, programmer, and curious tinkerer.
   </a>
 </p>
 
+
+ <p align="center"> <img src="https://gh-window.vercel.app/api/fahim-foysal-097?theme=dark&accent=10b981" alt="sameerasw's GitHub stats" /></p>
+
+
 ---
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=fahim-foysal-097&show_icons=true&theme=gruvbox&hide_border=true&count_private=true" alt="fahim"/></a></p>
+<!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=fahim-foysal-097&show_icons=true&theme=gruvbox&hide_border=true&count_private=true" alt="fahim"/></a></p> -->
 
-<p align="center"><img src="https://nirzak-streak-stats.vercel.app/?user=fahim-foysal-097&theme=gruvbox&hide_border=true" alt="fahim"/></a></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=fahim-foysal-097&show_icons=true&theme=gruvbox&hide_border=true&count_private=true" alt="fahim"/></a></p>
+
+<!-- <p align="center"><img src="https://nirzak-streak-stats.vercel.app/?user=fahim-foysal-097&theme=gruvbox&hide_border=true" alt="fahim"/></a></p> -->
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=fahimfoysal&layout=compact&langs_count=20&theme=gruvbox&hide_border=true"/></p>
 
