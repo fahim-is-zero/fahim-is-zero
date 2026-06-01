@@ -13,7 +13,7 @@ Learning something new every day - student, programmer, and curious tinkerer.
 </p>
 
 
- <p align="center"> <img src="https://gh-window.vercel.app/api/fahim-foysal-097?theme=dark&accent=10b981" alt="sameerasw's GitHub stats" /></p>
+ <p align="center"> <img src="https://gh-window.vercel.app/api/fahim-foysal-097?theme=dark&accent=fabd2f" alt="GitHub stats" /></p>
 
 
 ---
